@@ -1,20 +1,19 @@
-<<<<<<< HEAD
-# app1
+# Практические работы 13, 14, 15
 
-A new Flutter project.
+Сделана авторизация с помощью Firebase для практической работы #13
 
-## Getting Started
+Сделан чат с продавцом для практической работы #14
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/bedcd1a6-e344-4b99-aa54-d5011963ad1c)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/3df0b61e-5a6b-4dca-9ee9-0d076563ccf6)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+Сделан список чатов для продавца для работы #15
+
+
+![image](https://github.com/user-attachments/assets/63bba468-ffed-485a-979a-f0705e39e704)
+
+![image](https://github.com/user-attachments/assets/27530827-f2f2-4f73-8da0-0ad89f9f9a9f)
+
+![image](https://github.com/user-attachments/assets/f6ba6f67-d65e-4d7d-8e43-52a1c64f6b89)

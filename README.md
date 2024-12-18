@@ -3,10 +3,9 @@
 Сделана авторизация с помощью Firebase для практической работы #13
 
 Сделан чат с продавцом для практической работы #14
+![image](https://github.com/user-attachments/assets/cae19350-7cef-485d-9a87-72d1d2718782)
+![image](https://github.com/user-attachments/assets/0e395f93-c23c-405a-91d0-70064ca99a3e)
 
-![image](https://github.com/user-attachments/assets/bedcd1a6-e344-4b99-aa54-d5011963ad1c)
-
-![image](https://github.com/user-attachments/assets/3df0b61e-5a6b-4dca-9ee9-0d076563ccf6)
 
 
 Сделан список чатов для продавца для работы #15

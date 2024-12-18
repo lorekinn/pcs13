@@ -10,9 +10,9 @@
 
 Сделан список чатов для продавца для работы #15
 
+![image](https://github.com/user-attachments/assets/2b0fea7e-5f1a-42b5-94b9-11905df33ef5)
 
-![image](https://github.com/user-attachments/assets/63bba468-ffed-485a-979a-f0705e39e704)
+![image](https://github.com/user-attachments/assets/5d797a20-16ce-4e40-a1e5-33abc549a1e4)
 
-![image](https://github.com/user-attachments/assets/27530827-f2f2-4f73-8da0-0ad89f9f9a9f)
+![image](https://github.com/user-attachments/assets/62115338-4888-4c3f-aba5-e3a19b80600f)
 
-![image](https://github.com/user-attachments/assets/f6ba6f67-d65e-4d7d-8e43-52a1c64f6b89)
